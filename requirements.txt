@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+langchain-groq
+langgraph
+playwright
+pdf2image
+pytesseract
+pydantic
+typing-extensions
+python-multipart
+# Additional dependencies for OCR
+# tesseract and poppler must be installed at system level
