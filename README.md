@@ -108,7 +108,7 @@ Project-Root/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/startup-intelligence.git
+   git clone https://github.com/jaikumar2406/startup-intelligence.git
    cd startup-intelligence
    ```
 
